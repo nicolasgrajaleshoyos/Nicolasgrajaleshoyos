@@ -28,10 +28,10 @@
   <a href="https://instagram.com/100rabhch" target="_blank">
     <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
   </a>
-  <a href="https://twitter.com/100rabhcsmc" target="_blank">
+  <a href="https://x.com/grajales_hoyos" target="_blank">
     <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png">
   </a>
-  <a href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber" target="_blank">
+  <a href="https://www.youtube.com/@Nicolas-Dev" target="_blank">
     <img src="https://img.icons8.com/doodle/1x/youtube--v2.png">
   </a>
 </p>
