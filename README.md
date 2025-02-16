@@ -5,13 +5,15 @@
 <a target="_blank" align="center">
   <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-
 </p>
+</p>	
 
-</p>
+  <picture>
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="75px">
+  </picture> 
+  About me
 
-	
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture> About me
+
 
 - 🌱 I’m currently working on **Mobile Apps (React-Native)**
 - 🤝 I’m available for **freelancing**
