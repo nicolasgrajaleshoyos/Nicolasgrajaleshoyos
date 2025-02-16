@@ -1,38 +1,37 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Nicolas Grajales Hoyos </a></h1>
-<h3 align="center">A passionate of java and programig web  &#127470;&#127475</h3>
+<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="_blank">Nicolas Grajales Hoyos</a></h1>
+
+### A passionate of Java and web programming 🇵🇷
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
-
+- 🌱 I’m currently working on Mobile App (React-Native)
 - 🤝 I’m available for freelancing.
+- 💬 Ask me about **React.js & React-Native**
+- 👨‍👩‍👦 How to reach me **nicolasgrajaleshoyos@gmail.com**
 
-- 💬 Ask me about **Reactjs & React-Native**
+---
 
-- 📫 How to reach me **nicolasgrajaleshoyos@gmail.com**
-
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+### Connect with me 🤝
 
 <p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/nicolas-grajales-hoyos-218711280/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/nicolasgrajaleshoyos">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/24981483/nicolas-grajales-hoyos">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a 
-         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-
+  <a href="https://www.linkedin.com/in/nicolas-grajales-hoyos-218711280/" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
+  </a>
+  <a href="https://github.com/nicolasgrajaleshoyos" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
+  </a>
+  <a href="https://stackoverflow.com/users/24981483/nicolas-grajales-hoyos" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png">
+  </a>
+  <a href="https://instagram.com/100rabhch" target="_blank">
+    <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
+  </a>
+  <a href="https://twitter.com/100rabhcsmc" target="_blank">
+    <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png">
+  </a>
+  <a href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber" target="_blank">
+    <img src="https://img.icons8.com/doodle/1x/youtube--v2.png">
+  </a>
 </p>
-
