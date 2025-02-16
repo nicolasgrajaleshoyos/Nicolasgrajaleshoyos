@@ -25,6 +25,10 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=py,java,notion,js,html,css,react,django,postgres,mongo,git,vscode,docker,aws,postman,pgadmin&perline=10"  />
+</p>
+<br />
 
 <p align="center">
 
@@ -101,4 +105,5 @@
   <a href="https://www.youtube.com/@Nicolas-Dev" target="_blank">
     <img src="https://img.icons8.com/doodle/40/youtube--v2.png">
   </a>
+</div>
 </p>
