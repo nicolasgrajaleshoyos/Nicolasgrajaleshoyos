@@ -24,10 +24,10 @@
   </a>
   <a href="https://stackoverflow.com/users/24981483/nicolas-grajales-hoyos" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png">
-  </a>
   <a href="https://instagram.com/nicolas_hoyoss" target="_blank">
-    <img src= <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
-  </a>
+    <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
+</a>
+
   <a href="https://x.com/grajales_hoyos" target="_blank">
     <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png">
   </a>
