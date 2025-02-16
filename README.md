@@ -11,9 +11,7 @@
   <picture>
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="75px">
   </picture> 
-  About me
-
-
+ About Me
 
 - 🌱 I’m currently working on **Mobile Apps (React-Native)**
 - 🤝 I’m available for **freelancing**
