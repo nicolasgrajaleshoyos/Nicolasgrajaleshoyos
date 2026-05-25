@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://100rabhcsmc.github.io/Me.io/" target="_blank">
+  <a href="https://ngh1.online" target="_blank">
     🌐 Portfolio Website
   </a>
 </p>
